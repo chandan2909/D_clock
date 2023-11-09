@@ -8,7 +8,7 @@ The clock updates the time every second and clears the screen to avoid flickerin
 # Installation
 To install this project, you need to clone or download this repository to your local machine.
 You can clone this repository using the following command:
-git clone https://github.com/chandan2909/D_clock.git
+## git clone https://github.com/chandan2909/D_clock.git
 
 Alternatively, you can download this repository as a zip file and extract it to your desired location.
 Usage
