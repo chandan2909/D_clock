@@ -1,7 +1,7 @@
 # Digital Clock
 This is a simple and elegant digital clock that displays the user inpute time in 12-hour format. It is written in C language and uses the stdio.h and windows.h libraries to create the console user interface and get the system time.
 
-#Features
+# Features
 
 The clock updates the time every second and clears the screen to avoid flickering.
 
