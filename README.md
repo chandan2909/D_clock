@@ -17,5 +17,5 @@ You can also use the Makefile to compile and run the project using the following
 make
 make run
 
-`You should see a console window with the digital clock on your screen.`
+`You should see a console window with the digital clock on your screen.
 You can close the window by pressing Ctrl + c.`
