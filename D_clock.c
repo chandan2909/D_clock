@@ -9,7 +9,7 @@ int main()
  if(h>12 || m>60 || s>60)
  {
    printf("Error ! please try again");
-   exit(0);1
+   exit(0);
 
  }
  while(1)
